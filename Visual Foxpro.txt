@@ -1,0 +1,34 @@
+01- Crear tablas Visual FoxPro | Visual FoxPro
+https://www.youtube.com/watch?v=2PmyxgTEMTM
+
+02 - Creando Formulario Categoria - Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=6_n3LoUr6XM
+
+03 - Insertar regitro - Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=5m9x5tm_yqg
+
+04 - Simplifica tu código- Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=Jh4ys9MJM84
+
+05 - Retoque de personalización al Grid Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=Q_iDgqJ8OH8
+
+06 - Adicionando mas procesos al Grid - Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=R5u9ep7E3k4
+
+07 - Nuevo registro al Grid - Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=4zTfmv5RqJc
+
+08 - Actualiza y elimina registro al Grid - Trabajando con Grid | Visual FoxPro
+https://www.youtube.com/watch?v=bxXNNw7Dqr8
+
+09 - Simplificando el código con métodos - Trabajando con Grid | Visual FoxPro
+https://www.youtube.com/watch?v=DK6FmoQmKTE
+
+10- Preparando el grid para ingresar datos directamente - Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=WUbpSnzE8yE
+
+11 - Insertar datos directo a la tabla mediante el GRID - Trabajando con Grid en VFP | Visual FoxPro
+https://www.youtube.com/watch?v=kTMf2XMYJ1A
+
+
